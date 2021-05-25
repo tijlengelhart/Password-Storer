@@ -22,5 +22,6 @@ else:
         print ("computer: ")
         print ("Netflix: ")
         print ("________________________")
+        leave = input  ("press enter to leave")
     else:
         print ("bye")
